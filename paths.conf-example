@@ -1,0 +1,7 @@
+# Rename to paths.conf to use
+# Or set environment variables of the same names
+[paths]
+XARPATH = /home/username/data/stokes-numerics/xars
+FRAMEPATH = /home/username/data/stokes-numerics/frames
+CACHEPATH = /home/username/data/stokes-numerics/cache
+HKMETRICPATH = /home/username/data/stokes-numerics/hk
