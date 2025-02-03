@@ -86,7 +86,7 @@ class ExtendedSelfDualityEquation(SelfDualityEquation):
                           self.uxinterp(z.real,z.imag),
                           self.uyinterp(z.real,z.imag),
                           pval.real,
-                          pval.imag] )
+                          pval.imag], dtype = object )
 
 
     # save object

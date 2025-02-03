@@ -4,7 +4,7 @@
 
 Python programs and modules for computing Stokes data for polynomial opers and the polynomial Hitchin section of the complex plane, and the predictions of the twistorial Riemann-Hilbert conjecture of Gaiotto-Moore-Neitzke and Gaiotto.
 
-Experiments conducted with these programs are reported in the paper _Opers and nonabelian Hodge: numerical studies_ by David Dumas and Andrew Neitzke.
+Experiments conducted with these programs are reported in the paper _Opers and nonabelian Hodge: numerical studies_ by Emily Dumas and Andrew Neitzke.
 
 ## Getting Started
 
@@ -134,7 +134,7 @@ A brief (and incomplete) user guide is available at [doc/USERGUIDE.md](doc/USERG
 
 ## Built with
 
-The PDE solver is derived from [blaschke](https://github.com/daviddumas/blaschke) by David Dumas and Michael Wolf.
+The PDE solver is derived from [blaschke](https://github.com/daviddumas/blaschke) by Emily Dumas and Michael Wolf.
 
 The spectral network visualization is derived from the Mathematica notebook [swn-plotter.nb](https://arxiv.org/src/1704.01522v1/anc/swn-plotter.nb) included with the paper [_Integral Iterations for Harmonic Maps_ by Andrew Neitzke](https://arxiv.org/abs/1704.01522).
 
@@ -147,12 +147,12 @@ Version history:
 
 ## Authors
 
-* **David Dumas** - [github.com/daviddumas](https://github.com/daviddumas)
+* **Emily Dumas** - [github.com/emilydumas](https://github.com/emilydumas)
 * **Andrew Neitzke** - [github.com/neitzke](https://github.com/neitzke)
 
 ## Acknowledgement
 
-The authors were supported in part by the US National Science Foundation, through grants NSF DMS 1709877 (DD) and DMS 1711692 (AN).
+The authors were supported in part by the US National Science Foundation, through grants NSF DMS 1709877 (ED) and DMS 1711692 (AN).
 
 This material is based upon work supported by the National Science Foundation. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
 
